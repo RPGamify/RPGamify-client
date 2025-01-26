@@ -13,7 +13,7 @@ const Header = () => {
   return (
     <header className="bg-white pb-2 border-solid border-4 border-black">
       <div>
-        <h1 className="text-4xl font-display pt-1 pl-3 text-mainAccent">
+        <h1 className="text-4xl font-display pt-1 pl-3 text-text">
           Rpgamify👾
         </h1>
       </div>

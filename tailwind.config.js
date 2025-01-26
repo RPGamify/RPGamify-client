@@ -11,7 +11,7 @@ export default {
 
         // light mode
         bg: "#e3dff2",
-        text: "#000",
+        text: "#1e1818",
         border: "#000",
 
         // dark mode
@@ -24,8 +24,8 @@ export default {
         base: "5px",
       },
       boxShadow: {
-        light: "4px 4px 0px 0px #000",
-        dark: "4px 4px 0px 0px #000",
+        light: "4px 4px 0px 0px #181415",
+        dark: "4px 4px 0px 0px #181415",
       },
       translate: {
         boxShadowX: "4px",
@@ -40,7 +40,7 @@ export default {
     },
     fontFamily: {
       display: ["'04B'"],
-      body: ["'PublicSans'"],
+      body: ["'false'"],
     },
   },
   plugins: [require("tailwindcss-animate")],
